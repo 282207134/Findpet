@@ -1,0 +1,4 @@
+2026-10-23
+Release APK installed successfully on Android 15 / API 35.
+Cold launch: Status ok.
+Welcome -> Get started -> Skip -> Try the demo -> Home verified.

@@ -1,0 +1,6 @@
+I/flutter (10096): 00:00 +0: complete demo journeys and capture every reference screen
+I/flutter (10096): 00:56 +1: intro remains scrollable at 320 x 640
+I/flutter (10096): 00:56 +2: demo entry, tab navigation, and search work on a compact screen
+I/flutter (10096): 00:58 +3: (tearDownAll)
+I/flutter (10096): 00:59 +4: All tests passed!
+All tests passed.

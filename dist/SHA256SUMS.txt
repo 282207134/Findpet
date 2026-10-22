@@ -1,0 +1,2 @@
+ab2605b77183f5aef3f18d054742ba70e47f70b31a1751f124a3c7e2f0dbbeb6  Findpet-1.0.0-demo.apk
+31b7c45b0cdc5c197544f0db747dbb78516252370fe12ce74c923aec7d9dd8d0  Findpet-source.zip
